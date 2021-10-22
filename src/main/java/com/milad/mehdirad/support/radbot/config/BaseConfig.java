@@ -9,10 +9,9 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 @Configuration
 public class BaseConfig {
 
-    public static String botUsername = "@";
-    public static String botToken = "";
+    public static String botUsername = "@HelloTel_Bot";
+    public static String botToken = "2092797350:AAFssV1Oiif03d51JyRSbI_5Ta0LafFrJAg";
     public static long[] admins = {119144033};
-
 
 
     @Bean
